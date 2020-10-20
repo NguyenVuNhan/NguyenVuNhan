@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nhan Nguyen</h1>
 <h3 align="center">I'm a Student and also a Developer</h3>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=nguyenvunhan&label=Profile%20views&color=0e75b6&style=flat"
     alt="nguyenvunhan"
   />
 </p>
+
+---
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -43,11 +45,12 @@
   /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
       alt="angularjs"
       width="40"
       height="40"
@@ -274,20 +277,25 @@
   </a>
 </p>
 
-<details>
-<summary>Recent Github Activity</summary>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenvunhan&show_icons=true&locale=en&theme=dark"
-    alt="nguyenvunhan"
-  />
+---
+
+<details width="100%">
+<summary>📊 Recent Github Activity</summary>
+  <p align="center">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenvunhan&show_icons=true&locale=en&theme=dark"
+      alt="nguyenvunhan"
+    />
+  </p>
 </details>
 
-<details>
-  <summary>:zap: Github stats</summary>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=nguyenvunhan&show_icons=true&locale=en&theme=dark"
-    alt="nguyenvunhan"
-  />
+<details width="100%">
+  <summary>📈 Github stats</summary>
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=nguyenvunhan&show_icons=true&locale=en&theme=dark"
+      alt="nguyenvunhan"
+    />
+  </p>
 </details>
