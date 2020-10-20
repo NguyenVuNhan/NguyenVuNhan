@@ -274,18 +274,20 @@
   </a>
 </p>
 
-<p>
+<details>
+<summary>Recent Github Activity</summary>
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenvunhan&show_icons=true&locale=en&layout=compact"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenvunhan&show_icons=true&locale=en&theme=dark"
     alt="nguyenvunhan"
   />
-</p>
+</details>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=nguyenvunhan&show_icons=true&locale=en"
+<details>
+  <summary>:zap: Github stats</summary>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=nguyenvunhan&show_icons=true&locale=en&theme=dark"
     alt="nguyenvunhan"
   />
-</p>
+</details>
