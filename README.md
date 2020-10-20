@@ -19,9 +19,8 @@
 </p>
 
 - 🔭 I’m currently studying at **Fontys**
-- 🌱 I’m currently learning **to be a full stack developer**
-- 🤝 I’m looking for help with my [Expenses manager](https://github.com/NguyenVuNhan/expenses-manager) project
-- 💬 Ask me about **C, C++, Python, Javascript, Typescript**
+- 🌱 I’m currently learning **everything**
+- 💬 Ask me about **anything** :3
 - 📫 How to reach me **nguyenvunhan1999@gmail.com**
 - ⚡ Fun fact **I used to spend a lot of time studying chemistry**
 
@@ -279,7 +278,7 @@
 
 ---
 
-<details width="100%">
+<details>
 <summary>📊 Recent Github Activity</summary>
   <p align="center">
     <img
@@ -290,7 +289,7 @@
   </p>
 </details>
 
-<details width="100%">
+<details>
   <summary>📈 Github stats</summary>
   <p align="center">
     <img
