@@ -25,8 +25,8 @@
 - ⚡ Fun fact **I love to play guitar and sometimes cycling**
 
 ### Connect with me:
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />](https://www.linkedin.com/in/nhanvunguyen)
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" />](https://www.facebook.com/nvn.xzy/)
 
 <br />
 
